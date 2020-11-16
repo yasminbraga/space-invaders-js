@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "name": "space-invaders-js",
+  "version": "1.0.0",
+  "main": "./app.js",
+  "license": "MIT"
+}
